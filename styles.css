@@ -26,11 +26,11 @@ html {
 .nav-list {
   padding: 0;
   width: 20%;
+  margin-top: 20px;
 }
 
 .nav-list-item {
   list-style-type: none;
-  
   color: white;
   background-color: #808080;
   height: 2em;
