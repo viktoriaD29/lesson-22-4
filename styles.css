@@ -39,6 +39,7 @@ html {
 }
 
 .nav-list-link {
+  line-height: 1em;
   width: 100%;
   padding: 0.5em;
   text-decoration: none;
