@@ -22,9 +22,12 @@ html {
   cursor: pointer;
 }
 
+.navigation {
+  padding: 0.5em;
+}
+
 .nav-list-item {
   list-style-type: none;
-  padding: 0.5em;
   width: 20%;
   color: white;
   background-color: #808080;
@@ -35,7 +38,7 @@ html {
 
 .nav-list-link {
   width: 100%;
-  padding: 0 0.5em;
+  padding: 0.5em;
   text-decoration: none;
   color: white;
   overflow: hidden;
