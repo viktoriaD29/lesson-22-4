@@ -44,6 +44,11 @@ html {
   display: inline-block;
 }
 
+.nav-list {
+  margin: 20px 0;
+  padding: 0;
+}
+
 @media screen and (max-width: 600px) {
   .navigation {
     visibility: hidden;
